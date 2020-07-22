@@ -7,6 +7,7 @@ export 'src/chart/base/base_chart/base_chart_data.dart';
 export 'src/chart/base/base_chart/touch_input.dart';
 export 'src/chart/line_chart/line_chart.dart';
 export 'src/chart/line_chart/line_chart_data.dart';
+export 'src/chart/line_chart/line_chart_shadow.dart';
 export 'src/chart/pie_chart/pie_chart.dart';
 export 'src/chart/pie_chart/pie_chart_data.dart';
 export 'src/chart/scatter_chart/scatter_chart.dart';
